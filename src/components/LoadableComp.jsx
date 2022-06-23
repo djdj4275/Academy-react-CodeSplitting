@@ -1,5 +1,6 @@
 import { useState } from "react";
 //  설치한 라이브러리 들고옴
+//  npm install @loadable/component
 import loadable from "@loadable/component";
 // loadable을 이용하여 가져올 comp를 import 함
 // 가져올때 글자를 호출하고 싶다면 fallback을 이용해서 호출 가능
